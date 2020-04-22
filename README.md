@@ -10,7 +10,7 @@ How to use it.
 Clone the repository to your server, or if you clone it to your own machine, move the subspace_install.sh file to your server.
 Check the script to your own satisfaction.
 Run the script using the command
-sh ./subspace_install.sh
+sh ./install.sh
 
 This would be run as root. If you are not logged in as root, you may need to modify the sommands in the script by adding 'sudo' before each command.
 
